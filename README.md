@@ -12,11 +12,11 @@ git clone https://github.com/your-username/token-management-api.git
 Install dependencies:
 
 ```bash
-cd token-management-api
+cd back-end-engineer-intern-task
 npm install
 ```
 
-Set up your MongoDB database and configure the connection in config.js.
+Set up your MongoDB database and configure the connection in .env.
 
 Start the server:
 
